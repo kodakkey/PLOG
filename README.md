@@ -1,5 +1,5 @@
 ﻿# PLOG
-![password](https://github.com/kodakkey/PLOG/assets/143454480/60f35d61-fc39-44be-ac78-c587e1176f1c)
+![pcoEz6ecE](https://github.com/kodakkey/PLOG/assets/143454480/182dc8ae-d8f5-47e2-85ec-9a1197579057)
 
 The term "PLOG" does not have a universally recognized meaning in the context of software engineering or computer science. It could potentially be an acronym specific to a certain project, organization, or domain.
 
